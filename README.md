@@ -1,4 +1,7 @@
 # visual-effects
+
+Made with Visual Studio 2013
+
 My 1st C&amp;G examination project in C++ using DirectX
 
 
